@@ -1,0 +1,5 @@
+name: osufrlivelogs
+author: Luclyoko
+version: 0.1
+main: fr.luclyoko.osufrlivelogs.Main
+commands:
